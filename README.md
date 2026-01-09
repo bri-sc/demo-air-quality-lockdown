@@ -6,7 +6,7 @@ This demo investigates air quality measurements taken around Bristol and looks a
 
 Click on this link to launch this through MyBinder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-sci-comp.git/HEAD?urlpath=tree/01_Demo_Scientific_Computing.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/demo-air-quality-lockdown/HEAD?urlpath=%2Fdoc%2Ftree%2F01_Demo_Scientific_Computing.ipynb)
 
 Note: this may take a while to load as MyBinder is building a coding environment for you to use in the cloud. This will not save any changes made to the file and will timeout after a few minutes of inactivity but can be relaunched.
 
