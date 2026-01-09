@@ -1,4 +1,4 @@
-## Air quality demo
+## Air quality demo - effect of lockdown
 
 This is a Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and approach we take on the "X with Computing" and "Scientific Computing with Data Science" programmes at the University of Bristol. See [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) for more details.
 
